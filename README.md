@@ -12,7 +12,15 @@ Additionally, this GPT emphasizes strategies for ensuring metadata quality and a
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
+[Computational Logic](https://github.com/sourceduty/Computational_Logic)
+<br>
 [Metadata Generator](https://github.com/sourceduty/Metadata_Generator)
+<br>
+[Format Developer](https://github.com/sourceduty/Format_Developer)
+<br>
+[Format Analyzer](https://github.com/sourceduty/Format_Analyzer)
+<br>
+[Format Origin](https://github.com/sourceduty/Format_Origin)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

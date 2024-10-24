@@ -21,6 +21,8 @@ Additionally, this GPT emphasizes strategies for ensuring metadata quality and a
 [Format Analyzer](https://github.com/sourceduty/Format_Analyzer)
 <br>
 [Format Origin](https://github.com/sourceduty/Format_Origin)
+<br>
+[File Automation](https://github.com/sourceduty/File_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
